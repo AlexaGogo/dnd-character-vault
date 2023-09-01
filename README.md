@@ -16,4 +16,4 @@ No extra information.
 
 ---
 
-Created with Max Gilmour and Diana Liang.
+Created by Alexa Gogoescu, Max Gilmour and Diana Liang.
