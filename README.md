@@ -13,3 +13,7 @@ No extra information.
 ---
 
 > Adventure hinges on more than just a throw of the dice.
+
+---
+
+Created with Max Gilmour and Diana Liang.
